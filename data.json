@@ -1,0 +1,73 @@
+{
+  "type": "row",
+  "weight": 1,
+  "id": "317c5dd35c-a8b5-4b30-aa57-64c781988e5f3434",
+  "children": [
+    {
+      "id": "cb26be12-a6f6-42f0-a62a-b298f933b9e4",
+      "component": true,
+      "weight": 452.03826416599696,
+      "config": {
+        "groupItem": false,
+        "content": "<h1>Iconic Cinematic Scene: A Captivating Dance</h1><img alt=\"Iconic Cinematic Scene\" src=\"https://images.unsplash.com/photo-1583009813445-4c08d1731cf4?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=MnwxfDB8MXxyYW5kb218MHx8SWNvbmljIENpbmVtYXRpYyBTY2VuZXx8fHx8fDE3MDMwMzk1Mzg&amp;ixlib=rb-4.0.3&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=1080\"/>"
+      }
+    },
+    {
+      "type": "column",
+      "id": "317c535c-a8b5-4b30-aa57-df64c781988e5f3434",
+      "weight": 747.9617358340031,
+      "children": [
+        {
+          "type": "row",
+          "id": "317c535c-a8b5-4b30-aa57-64c781988e5f3434",
+          "weight": 799.9999999999999,
+          "children": [
+            {
+              "id": "317c535c-a8b5-4b30-aa57-64c781988e5f",
+              "component": true,
+              "weight": 373.9808679170016,
+              "config": {
+                "groupItem": true,
+                "content": "<h2>The Setting</h2><p>As the camera pans across a dimly lit room, the air crackles with anticipation. The scene is set in a lavish ballroom, adorned with shimmering chandeliers and intricate decorations. The room is filled with elegantly dressed guests, their eyes fixed on the center of the room.</p>"
+              }
+            },
+            {
+              "id": "f44d2986-be16-4655-a6ad-ae3b7ad25423",
+              "component": true,
+              "weight": 373.98086791700155,
+              "config": {
+                "groupItem": true,
+                "content": "<h2>Cinematic Masterpiece</h2><p>The scene is a masterpiece of cinematography, expertly choreographed to showcase the beauty of human connection. It is a moment that transcends the boundaries of the screen, touching the very core of our hearts and reminding us of the power of love, passion, and the universal language of dance.</p>"
+              }
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "weight": 800.0000000000001,
+          "id": "317c535c-a8b5-4b30-aadfd57-64c781988e5f3434",
+          "children": [
+            {
+              "id": "802c25ee-2612-40ab-9382-c10c9d71e11b",
+              "component": true,
+              "weight": 373.9808679170016,
+              "config": {
+                "groupItem": true,
+                "content": "<h2>The Dance</h2><p>Suddenly, the music swells, and the crowd parts to reveal two figures locked in a mesmerizing dance. Their movements are graceful, their chemistry palpable. It is a dance that transcends mere steps; it is a dance that tells a story of passion, longing, and undeniable connection.</p><ul><li>The male lead, dressed in a tailored tuxedo, exudes confidence and charm. His eyes are intense, his every move calculated yet fluid.</li><li>The female lead, adorned in a breathtaking gown, matches his every step with equal grace and poise. Her eyes sparkle with a mixture of vulnerability and strength.</li></ul><p>As they twirl and glide across the dance floor, time seems to stand still. The world around them fades away, leaving only the two souls entwined in a dance that speaks volumes without a single word spoken. Every dip, every lift, every subtle touch resonates with raw emotion, leaving the audience breathless and captivated.</p>"
+              }
+            },
+            {
+              "id": "271b4d5e-5282-4f50-a8d0-8b0d71addbab",
+              "component": true,
+              "weight": 373.98086791700155,
+              "config": {
+                "groupItem": true,
+                "content": "<h2>Enduring Impact</h2><p>This famous scene has become an enduring symbol of romance and has etched itself into the annals of cinematic history. Its beauty and emotional depth have made it a source of inspiration for generations, a scene that continues to captivate and move audiences time and time again.</p><p>So, sit back, dear viewers, and prepare to be swept away by the magic of this iconic scene. Let its enchantment wash over you as you witness a dance that will forever be etched in your memory, a dance that transcends time and leaves an indelible mark on your soul.</p>"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
